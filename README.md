@@ -14,6 +14,7 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 <img src="https://raw.githubusercontent.com/sourcelinga/sourcelinga/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
 
 ### *One Source. Many Ways. Always Better.*
+#### *Same Source. New Ways. Better Lives.*
 
 **Source Linga** is a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev — using AI to take the same timeless wisdom and apply it in different, multiple and better ways.
 
