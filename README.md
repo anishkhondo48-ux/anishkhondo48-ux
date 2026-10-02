@@ -6,14 +6,16 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 ## 🌱 What I do
 
 - 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
-- 🙏 **Source Linga** — a non-commercial initiative (see below)
+- 🙏 **Source Linga** — *One Source. Many Ways. Always Better.* A non-commercial initiative (see below)
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
 
 ## 🙏 Source Linga
 
 <img src="https://raw.githubusercontent.com/sourcelinga/sourcelinga/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
 
-**Source Linga** is a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev.
+### *One Source. Many Ways. Always Better.*
+
+**Source Linga** is a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev — using AI to take the same timeless wisdom and apply it in different, multiple and better ways.
 
 Not a business — nothing is sold.
 
