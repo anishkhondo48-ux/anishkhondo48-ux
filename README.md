@@ -1,13 +1,25 @@
 # Hi, I'm Anish Khondo 👋
 
-**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Linga AI 🙏**  
+**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Source Linga 🙏**  
 Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and technology.
 
 ## 🌱 What I do
 
 - 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
-- 🙏 **Linga AI** — a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev
+- 🙏 **Source Linga** — a non-commercial initiative (see below)
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
+
+## 🙏 Source Linga
+
+<img src="https://raw.githubusercontent.com/anishkhondo48-ux/anishkhondo48-ux/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
+
+**Source Linga** is a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev.
+
+Not a business — nothing is sold.
+
+<br clear="left" />
+
+> **Disclaimer:** Source Linga is an independent, personal, non-commercial initiative. It is **not affiliated with, endorsed by, sponsored by, or connected to Sadhguru, Isha Foundation, or any Isha organisation**. All names and trademarks belong to their respective owners. For Sadhguru's official teachings and programs, please visit [isha.sadhguru.org](https://isha.sadhguru.org).
 
 ## 🛠️ Tech I work with
 
