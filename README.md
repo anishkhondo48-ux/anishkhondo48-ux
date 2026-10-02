@@ -27,7 +27,7 @@ Not a business — nothing is sold.
 
 ## 🤝 Let's connect
 
-[![Website](https://img.shields.io/badge/Website-digjentea.com-2E7D32?style=flat&logo=googlechrome&logoColor=white)](https://digjentea.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Digjen_Tea-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/139404149/) [![Instagram](https://img.shields.io/badge/Instagram-digjen.anish.khondo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/digjen.anish.khondo/) [![Email](https://img.shields.io/badge/Email-digjenanish%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digjenanish@gmail.com)
+[![Website](https://img.shields.io/badge/Website-digjentea.com-2E7D32?style=flat&logo=googlechrome&logoColor=white)](https://digjentea.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Digjen_Tea-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/139404149/) [![Instagram](https://img.shields.io/badge/Instagram-digjen.anish.khondo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/source.linga/) [![Email](https://img.shields.io/badge/Email-digjenanish%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digjenanish@gmail.com)
 
 📍 Siliguri, West Bengal, India
 
