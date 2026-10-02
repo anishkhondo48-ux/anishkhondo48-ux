@@ -6,7 +6,7 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 ## 🌱 What I do
 
 - 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
-- 🙏 **Linga AI** — a non-commercial initiative to guide future generations, sharing life wisdom inspired by the teachings of Sadhguru Jaggi Vasudev
+- 🙏 **Linga AI** — a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
 
 ## 🛠️ Tech I work with
