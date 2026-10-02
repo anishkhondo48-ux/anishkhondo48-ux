@@ -19,7 +19,7 @@ Not a business — nothing is sold.
 
 <br clear="left" />
 
-> **Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by Sadhguru or Isha Foundation. All references to their teachings are made with respect and proper attribution. For Sadhguru's official teachings and programs, please visit [isha.sadhguru.org](https://isha.sadhguru.org).
+> **Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by any foundation. All references to teachings are made with respect and proper attribution.
 
 ## 🛠️ Tech I work with
 
@@ -33,4 +33,4 @@ Not a business — nothing is sold.
 
 ---
 
-<sub>**Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by Sadhguru or Isha Foundation. All references to their teachings are made with respect and proper attribution.</sub>
+<sub>**Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by any foundation. All references to teachings are made with respect and proper attribution.</sub>
