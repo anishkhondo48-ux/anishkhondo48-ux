@@ -6,17 +6,16 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 ## 🌱 What I do
 
 - 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
-- 🙏 **Source Linga** — *One Source. Many Ways. Always Better.* A non-commercial initiative (see below)
+- 🙏 **Source Linga** — *Same Thing. Smarter Use. Better Output.* A non-commercial initiative (see below)
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
 
 ## 🙏 Source Linga
 
 <img src="https://raw.githubusercontent.com/sourcelinga/sourcelinga/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
 
-### *One Source. Many Ways. Always Better.*
-#### *Same Source. New Ways. Better Lives.*
+### *Same Thing. Smarter Use. Better Output.*
 
-**Source Linga** is a non-commercial AI initiative that helps people use anything — even the same old thing — in better and new ways.
+**Source Linga** is a non-commercial AI initiative that helps people use the same things they already have in a better, more intelligent way — to get better output.
 
 Not a business — nothing is sold.
 
