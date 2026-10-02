@@ -19,7 +19,7 @@ Not a business — nothing is sold.
 
 <br clear="left" />
 
-> **Disclaimer:** Source Linga is an independent, personal, non-commercial initiative. It is **not affiliated with, endorsed by, sponsored by, or connected to Sadhguru, Isha Foundation, or any Isha organisation**. All names and trademarks belong to their respective owners. For Sadhguru's official teachings and programs, please visit [isha.sadhguru.org](https://isha.sadhguru.org).
+> **Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by Sadhguru or Isha Foundation. All references to their teachings are made with respect and proper attribution. For Sadhguru's official teachings and programs, please visit [isha.sadhguru.org](https://isha.sadhguru.org).
 
 ## 🛠️ Tech I work with
 
@@ -30,3 +30,7 @@ Not a business — nothing is sold.
 [![Website](https://img.shields.io/badge/Website-digjentea.com-2E7D32?style=flat&logo=googlechrome&logoColor=white)](https://digjentea.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Digjen_Tea-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/139404149/) [![Instagram](https://img.shields.io/badge/Instagram-digjen.anish.khondo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/digjen.anish.khondo/) [![Email](https://img.shields.io/badge/Email-digjenanish%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digjenanish@gmail.com)
 
 📍 Siliguri, West Bengal, India
+
+---
+
+<sub>**Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by Sadhguru or Isha Foundation. All references to their teachings are made with respect and proper attribution.</sub>
