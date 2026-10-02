@@ -11,7 +11,7 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 
 ## 🙏 Source Linga
 
-<img src="https://raw.githubusercontent.com/anishkhondo48-ux/anishkhondo48-ux/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
+<img src="https://raw.githubusercontent.com/sourcelinga/sourcelinga/main/source-linga-logo.png" alt="Source Linga logo" width="140" align="left" />
 
 **Source Linga** is a non-commercial initiative to guide future generations through the life experiences and methods of Sadhguru Jaggi Vasudev.
 
