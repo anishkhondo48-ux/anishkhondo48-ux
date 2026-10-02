@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anish Khondo 👋
 
-<!--
-**anishkhondo48-ux/anishkhondo48-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Linga AI**  
+Darjeeling-born, Siliguri-based entrepreneur building at the intersection of tradition and technology.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
+- 🤖 **Linga AI** — building practical AI solutions for real businesses
+- ⚙️ Automating workflows and creating digital content with Python & Playwright
+
+## 🛠️ Tech I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+## 🤝 Let's connect
+
+[![Website](https://img.shields.io/badge/Website-digjentea.com-2E7D32?style=flat&logo=googlechrome&logoColor=white)](https://digjentea.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Digjen_Tea-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/139404149/) [![Instagram](https://img.shields.io/badge/Instagram-digjen.anish.khondo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/digjen.anish.khondo/) [![Email](https://img.shields.io/badge/Email-digjenanish%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digjenanish@gmail.com)
+
+📍 Siliguri, West Bengal, India — open to collaborations in tea, AI and automation.
