@@ -1,6 +1,6 @@
 # Hi, I'm Anish Khondo 👋
 
-**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Source Linga 🙏**  
+**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Creator of Source Linga 🙏**  
 Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and technology.
 
 ## 🌱 What I do
