@@ -1,12 +1,12 @@
 # Hi, I'm Anish Khondo 👋
 
-**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Linga AI**  
-Darjeeling-born, Siliguri-based entrepreneur building at the intersection of tradition and technology.
+**Founder of [Digjen Tea](https://digjentea.com) 🍃 & Linga AI 🙏**  
+Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and technology.
 
-## 🚀 What I do
+## 🌱 What I do
 
 - 🍵 **Digjen Tea** — bringing authentic Darjeeling tea to tea lovers everywhere
-- 🤖 **Linga AI** — building practical AI solutions for real businesses
+- 🙏 **Linga AI** — a non-commercial initiative to guide future generations, sharing life wisdom inspired by the teachings of Sadhguru Jaggi Vasudev
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
 
 ## 🛠️ Tech I work with
@@ -17,4 +17,4 @@ Darjeeling-born, Siliguri-based entrepreneur building at the intersection of tra
 
 [![Website](https://img.shields.io/badge/Website-digjentea.com-2E7D32?style=flat&logo=googlechrome&logoColor=white)](https://digjentea.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Digjen_Tea-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/139404149/) [![Instagram](https://img.shields.io/badge/Instagram-digjen.anish.khondo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/digjen.anish.khondo/) [![Email](https://img.shields.io/badge/Email-digjenanish%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:digjenanish@gmail.com)
 
-📍 Siliguri, West Bengal, India — open to collaborations in tea, AI and automation.
+📍 Siliguri, West Bengal, India
