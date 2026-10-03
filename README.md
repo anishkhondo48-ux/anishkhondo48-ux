@@ -5,6 +5,7 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 
 ## 🌱 What I do
 - 🙏 **Source Linga** — *Same Thing. Smarter Use. Better Output.* A non-commercial initiative (see below)
+- 🧠 **[Source Linga AI](https://github.com/sourcelinga/source-linga)** — a private, self-improving AI that runs offline on your Mac, iPhone and iPad
 - ⚙️ Automating workflows and creating digital content with Python & Playwright
 
 ## 🙏 Source Linga
@@ -18,6 +19,16 @@ Darjeeling-born, Siliguri-based — bringing together tradition, wisdom and tech
 Not a business — nothing is sold.
 
 <br clear="left" />
+
+### 🧠 Source Linga AI (open source)
+
+A private AI that runs **offline on your Mac** and works from your **iPhone and iPad** over home Wi-Fi. It improves the skills, prompts, emails and workflows you already use, and keeps only the changes that measurably score better.
+
+- Streams answers, learns from your own notes, and uses expert skills (debugging, planning, copywriting, outreach and more)
+- Updates itself carefully: tries a newer model each week and switches only if it tests better
+- Works with Safari (Add to Home Screen), Enchanted, Siri Shortcuts and any OpenAI-compatible app
+
+**→ [github.com/sourcelinga/source-linga](https://github.com/sourcelinga/source-linga)**: install with `git clone https://github.com/sourcelinga/source-linga.git && cd source-linga && bash install.sh`
 
 > **Disclaimer:** Source Linga is an independent, non-commercial initiative. It is not affiliated with, sponsored by, or endorsed by any foundation. All references to teachings are made with respect and proper attribution.
 
